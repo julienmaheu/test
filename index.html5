@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Curriculum Vitae</title>
+        
+    </head>
+    <body> 
+        <p align=center> <big><font color="blue">Mon Curriculum Vitae</font></big> </p>
+<b> Je vais me pr&eacute;senter! </b>
+<h1> Julien Maheu </h1>
+<h6> (17 ans et toutes ses dents) </h6> 
+<h3> J'adorerais appliquer pour le travail de dresseur de chatons EXPLICATIONS!</h3>
+<small> - Je porte un chandail poche & fils avec des chatons au moins une fois par semaines <br> - Gr&acirc;ce &agrave;
+    moi, les chatons seraient capables d'ex&eacute;cuter de magnifiques accrobaties <br>
+    - Expert dans le domaine depuis plus de 10 ans </small> 
+<h1><font color="lime"> Formation</font></h1> 
+<small> Dipl&ocirc;me d'&eacute;tudes secondaires compl&egrave;t&eacute; au Coll&egrave;ge Bourget <br>
+    DEC en technique de l'informatique (en cours) au Coll&egrave;ge de Valleyfield</small> 
+<h1><font color="red"> Exp&eacute;riences de travail : </font></h1> 
+<small> - Moniteur de ski &agrave; Sommet Gabriel (Hiver 2016-2017)<br>
+    - Conseiller aux ventes &agrave; Sports Experts Vaudreuil (Juin-Ao&acirc;t 2017)</small> 
+<h1><font color="fuchsia"> Mes int&eacute;r&egrave;ts :</font></h1>
+<small> - Le ski c'est la vie! <br> - Le golf aussi mais j'aime mieux le ski! <br> D'ailleurs,
+    j'aime bien l'informatique et j'aimerai d&eacute;velopper des applications mobiles
+</small>
+
+<h4> Merci de prendre ma demande d'emploi en consid&eacute;ration! </h4> 
+<img src="image/IMG_5269.JPG" alt=" " width="500" height="375"/>
+
+
+   
+    
+    
+    
+  
+
+
+</body>
+</html>
