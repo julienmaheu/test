@@ -1,0 +1,129 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-10-04, 20:44:10
+    Author     : julien
+*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4682B4;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #8B0000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #696969;
+}
+body {
+background-image: url("images/degrad.jpg")
+}
+header  
+{
+    width: 700px;
+    padding: 10px;
+    border: 5px solid darkred;
+    margin: 0; 
+    background-color: #4682B4;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+img
+{
+   border: 5px solid darkred; 
+}
+figcaption
+{
+   color: white;  
+}
+#jp
+{
+    margin-left: 700px;
+    margin-top: -600px;
+}
+#jas
+{
+    margin-top: -450px;
+    margin-left: 50px;
+}
+#fig1
+{
+margin-left: 50px;    
+}
+#fig2
+{
+margin-left: 700px;  
+}
+iframe
+{
+    margin-left: 700px;
+    margin-top: 75px;
+}
+#sala
+{
+margin-top: -450px; 
+}
+#you
+{
+ width: 500px;
+    padding: 10px;
+    border: 5px solid darkred;
+    margin: 0; 
+    background-color: #4682B4;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;   
+}
+#allo
+{
+    width: 500px;
+    padding: 10px;
+    border: 5px solid darkred;
+    margin: 0; 
+    background-color: #4682B4;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;  
+    text-align: left;
+}
+#qwerty
+{
+   text-align: center;
+}
+#azerty
+{
+margin-left:200px;
+}
+#ytrewq
+{
+margin-left: 25px;
+}
+footer
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4682B4;  
+    text-align: center;
+    color : white;
+    border: 5px solid darkred;
+}

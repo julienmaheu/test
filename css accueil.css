@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-10-04, 20:12:34
+    Author     : julien
+*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4682B4;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #8B0000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #696969;
+}
+body {
+    background-image:url("images/skisun.jpg");
+    
+}
+#header1 {
+text-align :center;
+color:white;
+width: 300px;
+    border: 25px ;
+    padding: 25px;
+    margin: 25px;
+    width: 1000px;
+    border: 25px solid #4682B4 ;
+    padding: 25px;
+    margin-left:auto;
+    margin-right:auto;
+}
+iframe {
+margin-top: 10px;
+margin-left: 0px;
+display:block;
+}
+#header2
+{
+ text-align :center;
+color:white;
+width: 300px;
+    border: 25px ;
+    padding: 100px 25px;
+    margin: 25px;
+    width: 300px;
+    border: 25px solid #4682B4 ;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-435px;
+}
+#iframevideo
+{
+float:right;
+margin-top: -450px;    
+}
+#iframevideo2 
+{
+ float:right;
+margin-top: -230px;     
+} 
+footer
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4682B4;  
+    text-align: center;
+    color : white;
+}
+
+#a1:visited { 
+color: #FF1493;
+}
+h4
+{
+    color: white;
+}
+    
